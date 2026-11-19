@@ -34,6 +34,12 @@ Two files, written to `--output-dir` (or the scanned folder if you don't set one
 - Classification and scoring are simple keyword heuristics. Effort and uniqueness scores are fixed placeholders and every item is estimated at 8 hours. Treat the plan as a starting point, not a verdict.
 - Deep parsing is Python only. Other languages are listed as files.
 
+## Open source
+
+SalvageBotX is open source as a way of giving back to the community. Use it, fork it, improve it and make it your own. Issues and pull requests are welcome.
+
+Built by Neil Scott Archer, Archer Chain Analytics, Saskatoon, Saskatchewan.
+
 ## License
 
 MIT. See LICENSE.
