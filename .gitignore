@@ -1,0 +1,4 @@
+*.bak
+.salvagebotx_workdir/
+__pycache__/
+*.pyc
